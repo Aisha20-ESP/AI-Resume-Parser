@@ -1,0 +1,14 @@
+Les recruteurs et les équipes RH des entreprises ont du mal à scanner des milliers de CV qualifiés. Soit ils ont besoin de beaucoup de gens pour le faire, soit ils manquent des candidats qualifiés. C'est une perte de temps, d'argent et de productivité pour l'entreprise.
+
+Pour résoudre ce problème, notre application d'analyse de CV peut prendre en charge des millions de CV, analyser les champs nécessaires et les catégoriser. Cet analyseur de CV utilise la bibliothèque python populaire - Spacy pour l'OCR et les classifications de texte. Nous formons d'abord notre modèle avec ces champs, puis l'application peut sélectionner les valeurs de ces champs à partir des nouveaux CV saisis.
+
+L'ensemble de données des CV comprend les champs suivants :
+Nom
+Profil
+Adresse
+Expériences Professionnelles
+Formation
+Competences 
+Année d'obtention du diplôme
+Les entreprises frequentées
+Centre d'interet
